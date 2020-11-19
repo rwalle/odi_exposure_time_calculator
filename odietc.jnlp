@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- JNPL File for PSMT application -->
 
-<jnlp spec="1.0+" codebase="http://127.0.0.1:8080" href="odietc.jnlp">
+<jnlp spec="1.0+" codebase="https://lizhe.me/odi_exposure_time_calculator" href="odietc.jnlp">
 
       
       <information>
